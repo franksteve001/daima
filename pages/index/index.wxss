@@ -1,0 +1,31 @@
+.image1{
+  widows: 690rpx;
+  margin: 30rpx;
+  padding-top: 100rpx;
+}
+
+.wenzi1{
+  text-align: center;
+  padding-top: 20rpx;
+  font-size: 50rpx;
+}
+
+.wenzi2{
+  text-align: center;
+  padding-top: 30rpx;
+  color: rgba(1,1,1,0.5);
+}
+
+.anniu2{
+  background: rgba(44, 86, 192, 1);
+  border-radius: 40rpx;
+  color: white;
+  font-size: 60rpx;
+}
+
+.anniu1{
+  padding-top: 100rpx;
+  width: 690rpx;
+  margin: auto;
+}
+

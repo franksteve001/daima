@@ -1,0 +1,20 @@
+.out{
+background-color: seashell;
+}
+
+.wenzi6{
+  padding-left: 30rpx;
+  padding-top: 30rpx;
+}
+
+.tupian3{
+  height: 300rpx;
+  width: 400rpx;
+  padding-left: 30rpx;
+  padding-top: 30rpx;
+}
+
+.out{
+  display: flex;
+}
+

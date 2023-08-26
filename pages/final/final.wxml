@@ -1,0 +1,32 @@
+<view class="box">
+  <image src="../../image/矩形 1.png" mode="aspectFill" style="width: 750rpx; height: 700rpx;"/>
+  <view>
+  总评分：
+  </view>
+  <view>
+  价格：
+  </view>  
+  <view>
+  地理位置：
+  </view>  
+  <view>
+  物业水平：
+  </view> 
+   <view>
+  交通便利性：
+  </view>  
+  <view>
+  周边配套设施：
+  </view>  
+  <view>
+  采光情况：
+  </view>
+  <view>
+  房龄：
+  </view>
+  
+
+
+</view>
+
+

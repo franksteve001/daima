@@ -1,0 +1,7 @@
+<view class="out" wx:for="{{3}}" bind:tap="goto1">
+    <image src="../../image/Rectangle 36@3x.png" mode="" class="tupian3"/>
+  <view class="wenzi6">
+    总评分:{{3.2}}
+  </view>
+
+</view>

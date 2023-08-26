@@ -1,0 +1,35 @@
+.wenzi3{
+  padding-left: 30rpx;
+  padding-top: 30rpx;
+  color: rgba(1, 1, 1, 0.7);
+}
+
+.xuanze{
+  padding-left: 40rpx;
+  padding-top: 60rpx;
+}
+
+
+.wenzi4{
+  padding-left: 40rpx;
+  padding-top: 40rpx;
+  color: rgba(44, 86, 192, 1);
+}
+
+.wenzi5{
+  padding-left: 40rpx;
+  padding-top: 10rpx;
+}
+
+.anniu2{
+  background: rgba(44, 86, 192, 1);
+  border-radius: 40rpx;
+  color: white;
+  font-size: 30rpx;
+}
+
+.anniu1{
+  padding-top: 100rpx;
+  width: 590rpx;
+  margin: auto;
+}

@@ -1,0 +1,76 @@
+<view class="wenzi3">
+  精确定位，为您找到合适的房源
+</view>
+
+<view class="out">
+  <view class="wenzi4">
+    1.在购房时，您认为以下哪些因素是不重要的？
+  </view>
+  <view class="wenzi5">
+    【多选题】（至多两项）
+  </view>
+  <checkbox-group bindchange="checkbox" >
+    <view class="xuanze">
+      <label for="">
+        <checkbox value="4.1"/>
+        A.价格
+      </label>
+    </view>
+
+    <view class="xuanze">
+      <label for="">
+        <checkbox value="4.2"/>
+        B.地理位置
+      </label>
+    </view>
+
+    <view class="xuanze">
+      <label for="">
+        <checkbox value="4.3"/>
+        C.物业水平
+      </label>
+    </view>
+
+    <view class="xuanze">
+      <label for="">
+        <checkbox value="4.4"/>
+        D.交通便利性
+      </label>
+    </view>
+
+    <view class="xuanze">
+      <label for="">
+        <checkbox value="4.5"/>
+        E.周边配套设施
+      </label>
+    </view>
+
+    <view class="xuanze">
+      <label for="">
+        <checkbox value="4.6"/>
+        F.采光情况
+      </label>
+    </view>
+
+    <view class="xuanze">
+      <label for="">
+        <checkbox value="4.7"/>
+        G.房龄
+      </label>
+    </view>
+
+    <view class="xuanze">
+      <label for="">
+        <checkbox value="4.8"/>
+        F.无
+      </label>
+    </view>
+  </checkbox-group>
+  <view class="anniu1">
+    <button class="anniu2"
+     style="width: 590rpx;"
+     bind:tap="goto">
+      下一页
+    </button>
+  </view>
+</view>
